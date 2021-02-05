@@ -138,7 +138,7 @@
     <comment>Digest preference card content.</comment>
   </data>
   <data name="WelcomeCardContent" xml:space="preserve">
-    <value>Merhaba ben Zihni Sinir Fikirler botuyum ve herkesi fikir göndermeye ve oylamaya teşvik ederek kuruluşunuzun yenilik yapmasına yardımcı olmak için buradayım.</value>
+    <value>Merhaba ben Fikir Tahtası botuyum ve herkesi fikir göndermeye ve oylamaya teşvik ederek kuruluşunuzun yenilik yapmasına yardımcı olmak için buradayım.</value>
     <comment>Welcome card content text.</comment>
   </data>
   <data name="WelcomeCardTitle" xml:space="preserve">
@@ -169,7 +169,7 @@ En sevdiğiniz yazıları arkadaşlarınızın gelişmesine yardımcı olmak iç
     <comment>Carousel Card text.</comment>
   </data>
   <data name="ApplicationName" xml:space="preserve">
-    <value>Zihni Sinir Fikirler</value>
+    <value>Fikir Tahtası</value>
     <comment>Application name to show on carousel card content.</comment>
   </data>
   <data name="ConfigureDigestBulletText" xml:space="preserve">
@@ -179,16 +179,16 @@ En sevdiğiniz yazıları arkadaşlarınızın gelişmesine yardımcı olmak iç
     <value>Özeti ayarlayın</value>
   </data>
   <data name="ContentText" xml:space="preserve">
-    <value>Zihni sinir bir fikir herkesten gelebilir değil mi? Haydi başlayalım!</value>
+    <value>Yaratıcı bir fikir herkesten gelebilir değil mi? Haydi başlayalım!</value>
   </data>
   <data name="CuratorWelcomeCardContent" xml:space="preserve">
-    <value>Merhaba ben Zihni Sinir Fikirler botuyum ve herkesi fikir göndermeye ve oylamaya teşvik ederek kuruluşunuzun yenilik yapmasına yardımcı olmak için buradayım.</value>
+    <value>Merhaba ben Fikir Tahtası botuyum ve herkesi fikir göndermeye ve oylamaya teşvik ederek kuruluşunuzun yenilik yapmasına yardımcı olmak için buradayım.</value>
   </data>
   <data name="DigestPreferenceTitleText" xml:space="preserve">
     <value>Özet seçeneklerinizi ayarlayın</value>
   </data>
   <data name="SubmitAnIdeaBulletPoint" xml:space="preserve">
-    <value>* Bir fikir gönderin - Fikrinizi göndermenizi sağlar</value>
+    <value> </value>
   </data>
   <data name="SubmitAnIdeaButtonText" xml:space="preserve">
     <value>Fikir gönder</value>
@@ -197,10 +197,10 @@ En sevdiğiniz yazıları arkadaşlarınızın gelişmesine yardımcı olmak iç
     <value>* Tüm fikirler - Meslektaşlarınızın fikirlerini görüntülemenizi ve oy vermenizi sağlar</value>
   </data>
   <data name="WelcomeSubHeaderText" xml:space="preserve">
-    <value>İşte yazabileceğiniz komutlar ve yaptıkları:</value>
+    <value> </value>
   </data>
   <data name="WelcomeTeamCardContent" xml:space="preserve">
-    <value>Merhaba ben Zihni Sinir Fikirler botuyum ve herkesi fikir göndermeye ve oylamaya teşvik ederek kuruluşunuzun yenilik yapmasına yardımcı olmak için buradayım.</value>
+    <value>Merhaba ben Fikir Tahtası botuyum ve herkesi fikir göndermeye ve oylamaya teşvik ederek kuruluşunuzun yenilik yapmasına yardımcı olmak için buradayım.</value>
   </data>
   <data name="CategoryText" xml:space="preserve">
     <value>**Kategori:**</value>
